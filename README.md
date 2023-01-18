@@ -18,14 +18,11 @@ Cuando viajamos a lugares nuevos, usualmente no sabemos:
 
 Se desarrollará una app con valoraciones de lugares, de viajeros REALES
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+Así descansarás como este gatito
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-This is how you create code examples:
+Ejemplo del inicio:
 ```
 def main():
    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
