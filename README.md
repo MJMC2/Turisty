@@ -7,17 +7,16 @@ Un espacio en la nube para compartir viajes, momentos y tips
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Cuando viajamos a lugares nuevos, usualmente no sabemos:
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Lugares donde comer bueno, bonito y barato
+* Horarios de las atracciones turísticas
+* Recomendaciones honestas de hoteles
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Se desarrollará una app con valoraciones de lugares, de viajeros REALES
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
